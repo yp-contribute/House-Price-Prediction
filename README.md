@@ -91,12 +91,12 @@ cd house-price-prediction-ml
 
 2. **Install dependencies**
 ```bash
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 
 3. **Run the notebook**
 ```bash
-jupyter notebook House_Price_Prediction.ipynb
+py -m jupyterlab
 ```
 
 ## 🤝 Contributing
